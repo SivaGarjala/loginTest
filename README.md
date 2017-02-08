@@ -9,6 +9,7 @@ Pre-requisites:
 1.	The Project has been created in a machine of 64-bit version. All the jars and other dependencies used in the project are of 64-bit version.
 2.	Maven is necessary to import and run this project.
 3.  Please make sure you have java 8 to run this project.
+4. You should have selenium webdriver v3.0.1 jar in external dependancies in your project after importing in IDE.
 
 Instructions:
 
